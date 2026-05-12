@@ -79,7 +79,7 @@ specializing in **Next.js, React.js, TypeScript, and Node.js**.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=htunh&amp;theme=dark&amp;background=000000" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htunh&amp;layout=compact&amp;langs_count=8&amp;theme=vision-friendly-dark" alt="Top Languages"/>
+  <img src="https://ghstats.dev/api/langs?username=htunh&amp;theme=dracula&amp;layout=bar&amp;max_langs=8" alt="Top Languages"/>
 </div>
 
 ---
