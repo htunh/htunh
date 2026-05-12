@@ -77,9 +77,9 @@ specializing in **Next.js, React.js, TypeScript, and Node.js**.
 ## 🔥 My GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=htunh&theme=dark&background=000000" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=htunh&amp;theme=dark&amp;background=000000" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htunh&theme=vision-friendly-dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=htunh&amp;layout=compact&amp;langs_count=8&amp;theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
 ---
