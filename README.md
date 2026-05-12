@@ -27,14 +27,14 @@
 
 ## 🚀 About Me
 
-I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">,
+I am a **Software Engineer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with **6+ years of experience**,
 
-specializing in **React.js, Node.js, and modern web technologies**.
+specializing in **Next.js, React.js, TypeScript, and Node.js**.
 
-- 🔥 Passionate about creating **dynamic & interactive web applications**.
-- 🎯 Focused on **frontend & backend development** with modern frameworks.
-- 📖 Always learning **new technologies & best practices**.
-- 💡 Exploring **Next.js, TypeScript, and UI/UX improvements**.
+- 🏢 Currently working as a **Freelance Full Stack Developer** for **Secure-eSIM** (Australia).
+- 🔥 Passionate about building **scalable platforms, AI-enabled applications**, and data-driven systems.
+- 🎯 Experienced in **fintech, PropTech, and telecom**, enhancing performance and user engagement.
+- 💡 Exploring **LLM APIs, AI-enhanced workflows, and prompt-based UX features**.
 - 📬 Reach out to me:  [![Linkedin Badge](https://img.shields.io/badge/-htun-blue?style=flat&logo=Linkedin&logoColor=white)](https://mm.linkedin.com/in/htun-htun-611307134)
 
 ---
@@ -67,7 +67,9 @@ specializing in **React.js, Node.js, and modern web technologies**.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint" alt="Eslint" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
 
 ---
